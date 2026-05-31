@@ -2,7 +2,7 @@
 
 A hands-on notebook that walks through optical flow from first principles to a real-world traffic direction counter, combining the Farneback dense flow method with YOLO object detection.
 
-[![Medium Blog](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sagar100rathod/84b6023607b6) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](...)
+[![Medium Blog](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@sagar100rathod/84b6023607b6) [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sagar100rathod/car-traffic-direction-using-optical-flow/blob/main/motion_detection_with_optical_flow.ipynb)
 
 ---
 
@@ -39,6 +39,7 @@ A hands-on notebook that walks through optical flow from first principles to a r
 **Option 1 — Google Colab (no local setup needed)**
 
 [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/sagar100rathod/car-traffic-direction-using-optical-flow/blob/main/motion_detection_with_optical_flow.ipynb)
+
 
 **Option 2 — Run Locally**
 
